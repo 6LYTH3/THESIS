@@ -1,0 +1,402 @@
+Operator
+Good afternoon, and thank you for standing by. Welcome to Western Digital's first quarter fiscal 2027 conference call. Presently, all participants are in a listen-only mode. Later, we will conduct a question and answer session. At that time, if you would like to ask a question, you may press star and then one on your phones. As a reminder, this call is being recorded. Now, I would like to turn the call over to Mr. Ambrish Srivastava, Vice President, Investor Relations. You may begin.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Thank you, and good afternoon, everyone. Joining me today are Irving Tan, WD's Chief Executive Officer, and Kris Sennesael, WD's Chief Financial Officer. Before we begin, please note that today's discussion will contain forward-looking statements based on management's current assumptions and expectations, which are subject to various risks and uncertainties. These forward-looking statements include expectations for our product portfolio, business plans and performance, ongoing market trends, and future financial results. We assume no obligation to update these statements. Please refer to our most recent annual report on Form 10-K and other filings with the SEC for more information on the risks and uncertainties that could cause actual results to differ materially from expectations. Unless stated otherwise, today's remarks reflect non-GAAP results. Reconciliations to GAAP results are available in our press release and at investor.wdc.com. With that, I will now turn the call over to Irving.
+
+Irving Tan
+CEO, Western Digital
+Thanks, Ambrish. Good afternoon, everyone, and thank you for joining us today. Q1 marked a strong start to fiscal 2027, reflecting solid execution across the business and results ahead of our expectations. Revenue grew 55% year-over-year, while gross and operating margins expanded meaningfully to 58% and 49%, respectively. EPS grew 161% year-over-year, and we generated $1.4 billion in free cash flow. These results reflect ongoing robust customer demand, operational discipline, and successful execution of our product and technology roadmap. Demand remains strong across our customer base and end markets. Our visibility is extending further, and with it, our conviction in the durability of demand for data storage on HDDs.
+
+We are increasingly seeing storage demand grow beyond our core cloud and hyperscale customers into enterprise environments and into newer end markets, such as NeoCloud and AI Frontier labs, resulting in a larger and more diversified customer base. Our customers are making longer-term infrastructure investments and continue to extend their planning horizons into the next decade. As the value of data is increasing, they are investing with confidence to support their growing needs for data storage, with the vast majority of the data being stored on HDDs. We see this firsthand in our customer conversations and in broader industry research. A recent IDC survey of more than 750 companies across several countries found that organizations are storing more data, retaining it for longer periods, and increasingly putting archive data back to work.
+
+At the core of these trends is continued data growth, fueled by the ongoing expansion of cloud environments and the increasing storage demands from AI. While much of the conversation around AI focuses on compute, we believe the more enduring opportunity is in data. AI is fundamentally a data system. Every workload creates more data, and that data must be stored, managed, and accessed in a scalable and economical manner. As AI adoption continues to expand across industries worldwide, data creation and storage requirements are expanding with it. Inference and agentic AI systems are generating significant volumes of logs, model outputs, and system performance data that must be stored and retained. Physical AI applications such as robotics, factory automation, and autonomous vehicles are further accelerating this trend with AI-generated content and video workloads that are creating and retaining data at scale.
+
+Let me now turn to our industry-leading technology and innovative products. We are executing well against our technology roadmap and remain on track transitioning our customers to higher capacity drives. As we ramp production across our next generation ePMR and HAMR platforms, we expect our exabyte shipments to continue to increase through fiscal 2027 and beyond. Volume production of our latest ePMR platform, delivering up to 40 terabytes of capacity, is off to a strong start. Customer adoption is progressing ahead of prior transitions, and we expect this platform to represent close to 30% of our nearline shipments by the second quarter and 50% by the third quarter of fiscal 2027.
+
+On our first generation HAMR product, we are on track to finish qualifications with two hyperscale customers in the first quarter of calendar year 2027 and are on schedule to begin volume shipments in the first half of calendar year 2027. We also expect to begin qualifications with two additional customers during the first half of calendar year 2027, further expanding customer validation and supporting broader adoption of our HAMR product. As AI workloads scale, customers not only need more capacity but also greater performance from their storage infrastructure. We are expanding the role of HDDs within cloud and AI infrastructure through innovations such as our high-bandwidth drive and dual pivot technology. By combining the economics of HDDs with significantly higher levels of performance, we believe this technology can address a broader range of existing and emerging workloads.
+
+We are currently sampling our high-bandwidth drives with multiple customers, and the feedback has been positive, with clear use cases and value creation identified. In summary, WD is executing with momentum. We are deepening customer relationships, extending visibility, and broadening the customer base, while our product and technology roadmap delivers precisely what customers need. As data grows in volume and value across cloud, AI, and emerging workloads, we have high confidence in the durability of long-term storage demand. With that, let me turn it over to Kris.
+
+Kris Sennesael
+CFO, Western Digital
+Thank you, Irving. Our first quarter results demonstrate ongoing strength of our business in combination with outstanding execution on all fronts. Customer demand remains healthy, and our visibility is extending further out. Our product transitions are progressing well, resulting in higher capacity products, solid year-over-year growth in exabyte shipped, and improved pricing, all driving another quarter of strong financial performance. During the first quarter of fiscal year 2027, revenue was $4.4 billion, up 55% year-over-year, driven by strong exabyte growth and a favorable pricing environment. We delivered 248 exabytes in the quarter, up 22% year-over-year and up 8% sequentially.
+
+Nearline products continue to drive growth as we execute on our product transitions, starting with the ramp of our latest generation ePMR drives with capacities up to 40 TB, and followed by the introduction of our HAMR technology in the first half of calendar year 2027, setting us up for stronger year-over-year growth in exabyte shipments. Cloud revenue was $3.9 billion, representing 88% of total revenue and increasing 54% year-over-year, driven by durable demand for our high-capacity Nearline HDDs, including the initial ramp of our latest ePMR platform. In addition, continued pricing strength reflects the value and TCO advantages we deliver to our customers. Client represented 7% of total revenue at $320 million, up 119% year-over-year. Consumer represented 5% of revenue at $193 million, up 19% year-over-year.
+
+Gross margin expanded to 58.1%, up 1,420 basis points year-over-year, with incremental year-over-year gross margin above 80%. Gross margin reflects a mix shift towards higher capacity drives, disciplined operational execution, and a favorable pricing environment across our portfolio, as we continue to deliver greater value to our customers. Year-over-year growth and average price per terabyte further increased to 28% versus the high teens we reported in the prior quarter. Operating expenses were $391 million, or approximately 9% of revenue, a 130 basis point sequential improvement, demonstrating continuing operating leverage in the model. Operating income of $2.2 billion increased 152% year-over-year, driven by strong revenue growth, expanding gross margin, and operating leverage. Operating margin expanded to 49.1% in the quarter, demonstrating our ability to continue to drive sustainably higher levels of profitability in the business.
+
+Interest and other expenses were $10 million, and our effective tax rate was 17%. Taking into account a diluted share count of 383 million shares, EPS was $4.64, an increase of 161% year-over-year. We generated $1.4 billion in free cash flow during the quarter and returned $1.1 billion to shareholders through share repurchases and dividends, reflecting confidence in the durability of free cash flow generation and our ability to drive long-term shareholder value. Supported by the strength of the free cash flow generation and consistent with our capital allocation framework, the board has approved a 17% increase in the quarterly cash dividend from $0.15 per share to $0.175 per share, which will be paid on December 17, 2026, to shareholders of record on December 4, 2026.
+
+Turning to the balance sheet, during the quarter, we took additional steps to simplify our capital structure by substantially reducing our remaining 2028 convertible notes. Our balance sheet remains strong, and we ended the quarter with a net cash position of half a billion. Let me now turn to the outlook for the second quarter of fiscal 2027. We continue to operate in an environment of strong demand and favorable pricing in all our end markets. For the second quarter of fiscal 2027, we expect revenue to be $5.1 billion ± $100 million. At the midpoint, this reflects a 69% increase year-over-year. Gross margin is expected to be in the range of 60%-61% as we continue to benefit from the shift to higher capacity drives, along with a strong pricing environment.
+
+We anticipate operating expenses of $400 million - $410 million, a sequential increase driven by the project expenses related to increased product qualification activities. Interest and other expenses are expected to be $15 million. The tax rate is expected to be 17%. As a result, we expect diluted earnings per share to be $5.80 ± $0.20, based on a non-GAAP diluted share count of 380 million shares. As we look ahead, demand remains robust. Customer engagements continue to deepen and broaden, and our visibility continues to improve. As we execute on our technology and product transitions, we expect to accelerate exabyte supply growth throughout fiscal year 2027 and 2028. Our strong balance sheet and free cash flow generation give us the ability to make targeted investments that strengthen our technology leadership and support our customers' growing storage needs.
+
+While we expect capital expenditures to average 4%-6% of revenue over a five-year period, we anticipate that CapEx as a percentage of revenue will be modestly above that range over the next two years as we continue to invest in heads and media technology and factory automation, supporting our industry-leading areal density and higher capacity drives without having to spend CapEx to add unit capacity. In summary, accelerating exabyte growth, technology leadership, expanding margins, and disciplined capital allocation provide a solid foundation for sustainable earnings, free cash flow growth, and long-term shareholder value creation. With that, let's now begin the Q&A. Ambrish?
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Thank you, Kris. Operator, you can now open the line to questions please. To ensure that we hear from as many analysts as possible, please ask one question at a time. After we respond, we will give you an opportunity to ask one follow-up question. Operator?
+
+Operator
+We will begin that question and answer session. To ask a question, you may press star and then one using a touch-tone telephone. If you are using a speakerphone, we do ask you please pick up the handset before pressing the keys. To withdraw your questions, you may press star and two. As mentioned, we do ask that you please limit yourselves to a single question and a follow-up. At this time, we will pause momentarily to assemble our roster. Our first question today comes from Amit Daryanani from Evercore. Please go ahead with your question.
+
+Amit Daryanani
+Analyst, Evercore
+Yep. Thanks a lot. Good afternoon, everyone. I guess maybe to start with, Irving, there's always a lot of focus on HAMR, and you outlined sort of completing qualifications with two hyperscalers in March, volume ship in mid-2027. Can you just talk about what are the remaining milestones between those two steps from your perspective, and then what determines how quickly you scale from there? Is it more driven by customer deployment schedules or your manufacturing readiness? Just any help there.
+
+Irving Tan
+CEO, Western Digital
+Yeah, Amit, thanks for the question. First of all, I would say I am very pleased with the progress that we are making with HAMR. As we have highlighted in the past, feedback from our customers have been very positive, particularly around the failure rates that we have seen in our drive performance vis-a-vis what they have seen with other players within the market. As a result of that, we are very confident in terms of finishing qualifications with the two customers that we have, our first-generation HAMR products in Q1. We will be starting qualification with two additional customers in the first half of calendar 2027 as well. We haven't had any feedback that would give us any reason for pause in terms of us translating that qual completion to volume shipments starting first half 2027.
+
+Both our customer technical support teams are working very closely with customers to complete those qual schedules and get them into production across our global operations teams, who are working closely with our own internal manufacturing assets and vendors to get the supply chain ready to support the ramp as well. Then starting in the second half of calendar 2027, we will also start qualification of our second-generation HAMR drives, and this will be at 5 TB per platter on an 11-disc platform. So overall, very pleased with the progress. I think the engineering and operations teams across the company have done a great job in really helping us accelerate development of the products, the reliability of it, and then we are focused very much on scaling it up and getting it into customers' hands.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Did you have a follow-up, Amit?
+
+Amit Daryanani
+Analyst, Evercore
+I do. Thanks a lot, Ambrish. Maybe just to follow up on the cost per terabyte. I realize you folks in the past have talked about sort of this input cost inflation headwind, but I think cost per terabyte was down, like, 4% or 5% in September quarter. That is the lowest we have seen in a while. Maybe you can just touch on what is happening there and what is the right way to think about this longer term, because I do realize you are guiding for some really strong gross margins in December. Just a little bit on the cost per terabyte number would be helpful.
+
+Kris Sennesael
+CFO, Western Digital
+Yeah. So as Irving just indicated, we continue to execute well on our technology roadmap and product transitions. Basically, moving to higher capacity drives based on better and higher areal density. So we are well on track in the long run to reduce our cost per terabyte approximately 10% year-over-year. In the near term, and I have indicated this before, this is not a surprise, we are facing some input cost increases. As most of you know, we use some DRAM and some NAND inside our hard disk drives. The whole supply chain really operates in a very tight environment. So we are seeing some of those input cost increases. We are addressing all of them through value engineering initiatives that we are seeing some good traction. It takes a little bit of time to implement and qualify those solutions.
+
+So in the near term, our cost per terabyte will be less than 10% down year-over-year. Taking that all into account, as you indicated as well, we are delivering very strong gross margins in the September quarter, as well as a strong guide for the December quarter. Our incremental gross margins continue to be very strong, well above 80%. So I think we are very well set up to continue to increase our gross margins over time.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Thank you, Amit.
+
+Operator
+Our next question comes from Wamsi Mohan from Bank of America. Please go ahead with your question.
+
+Wamsi Mohan
+Analyst, Bank of America
+Yes, thank you. Irving, I was wondering if you could just address this angst around incremental capacity adds from the smallest player in the market, and there's been some chatter around potential consolidation in the industry. Just would love to get your high-level take on what you think could be, if there was any potential impact from that at an industry level, and is that impacting any of your price negotiations with hyperscale customers and the out years?
+
+Irving Tan
+CEO, Western Digital
+Yeah. Wamsi, thanks for the question. I would say at a high level, we don't see any change in terms of the long-term fundamentals of both the industry or our business specifically. We continue to see demand continuing to be very strong, 25%+ CAGR, as we've highlighted consistently, in a very tight supply environment. We remain committed to our strategy and our focus to meet that supply-demand growth based on delivering areal density. That's delivered through technology, particularly through our head and media technology, because that is the best way to deliver the best TCO to our customers and to also drive greatest profitability of our business for our business as well. You can see that focus in terms of both the investments we're making both into research and development and into capital investment into our head and media parts of the business.
+
+And I think the unique differentiation that we have with our own head and media development, the drive integration capability that we have, gives us that confidence to be able to meet that growth trajectory through areal density, and therefore remain committed to not investing in any incremental unit capacity. There may be some other players in the market who do not have that unique ability to build their own media, build their own heads, drive that areal density improvement, and they have to compensate that by potentially maybe increasing the number of units just to maintain their share and position in the marketplace.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you have a follow-up, Wamsi?
+
+Wamsi Mohan
+Analyst, Bank of America
+Yeah, I do, Ambrish. Thanks. On the exabyte shipments, you grew 22%. As I am hearing you talk about sort of the trajectory here for the rest of the year, it looks like you expect that growth to improve as you execute on these product transitions and then have HAMR in the mix. Could you just give us some sense of what it is at the high level? Is it right to think of fiscal 2027 at roughly your longer term range for the year? Is that the right way to think about it? Maybe just if you think about unconstrained sort of demand, how much higher is that relative to where your supply is? Do you see that widening because of just how strong the demand is over the next couple of years? Thank you.
+
+Irving Tan
+CEO, Western Digital
+Yeah. Thanks for the question, Wamsi. We sort of see the current quarter as being sort of the floor in terms of exabyte growth, and we see that accelerating through the rest of the fiscal year, and obviously, as Kris highlighted in the script to 2028 and beyond that as well. That is really driven by the confidence that we have in the new platforms that we will be introducing. Obviously, we have HAMR coming out in the first half of fiscal 2027, and then as I highlighted, we have our second generation HAMR drives starting qualification in second half as well.
+
+We are very quickly at the top end, going from a 32 TB drive to a 44 TB drive to a 55 TB drive and beyond, and that is the best way and the most economical way for both our customers and for us to be able to meet the demands that they have in terms of our products. To your question around the demand, as I said, we see that continuing to grow. We see it being very doable. There has not been any diminishing in demand, and we do not see the gap in supply or demand that exists today diminishing in the near term as well. We continue to focus on supporting our customers the best we can with the technology that we have.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Thank you, Wamsi.
+
+Operator
+Our next question comes from Erik Woodring from Morgan Stanley. Please go ahead with your question.
+
+Erik Woodring
+Analyst, Morgan Stanley
+Super, guys. Thank you so much for taking my questions, and congrats on the quarter and the guide. Irving, can you maybe just share a bit more granular detail on your visibility comments? Meaning, how far out are we talking? How many customers are we talking? And for those customers that are planning that far out, just what are their exabyte needs today or in the future relative to three or six months ago? Do you see that demand expanding relative to, again, three or six months ago? Thanks.
+
+Irving Tan
+CEO, Western Digital
+Yeah, Erik, thanks for the question. I think in terms of visibility outlook, if you take our top seven customers as an example, we have good visibility up to 2030, 2031, for across all seven of them, and that's something that we've highlighted that we've always really much appreciated so we can make sure we deliver both the technology and the supply to meet that growth and demand going forward. We have good visibility in that. In fact, we see quarter after quarter, the demand signal actually increasing over time. As we move forward into the 2028, 2029, 2030 timeframe, we see that demand continuing to be very durable.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you have a follow-up, Erik?
+
+Erik Woodring
+Analyst, Morgan Stanley
+Yeah. Thank you, Ambrish. Then just as a follow-up, you obviously just grew revenue 55% year-over-year. You're guiding to 69% year-over-year revenue growth at the midpoint in December. Incredibly strong, and obviously you're referencing some exabyte growth acceleration, but that also implies that you're going to be accelerating pricing in the December quarter as well. Can you maybe just help us understand, what is the source of that pricing acceleration? Is that coming from a non-nearline side? Is that the nearline side? I assume it's probably both, but just any more granular color you can provide on why we're seeing that acceleration in pricing in the December quarter, and how sustainable that is. Thank you.
+
+Kris Sennesael
+CFO, Western Digital
+Yeah, Erik, we continue to operate in a very strong, favorable pricing environment. You saw our blended average selling price per terabyte was up 28% on a year-over-year basis, and we saw that strength across the board in nearline and non-nearline, some of our consumer and client businesses as well. The pricing environment is strong because we do execute on our technology and product roadmap, and we continue to deliver higher capacity drives to our customers that help our customers to reduce their total cost of ownership because we have better rack density, lower power consumption, and a lot of benefits for our customers. As we continue to execute on that strategy and continue to deliver higher capacity drives, there is an opportunity to further enhance our price per terabyte over time. As you probably know, some of that business is under LTAs.
+
+Some of the LTAs are expiring, and new agreements are being put on place. In addition to that, of course, some of our exabytes are not under contract as well, and we do see a very strong price environment for those exabytes that are not under contract as well.
+
+Operator
+Thank you, Erik. Our next question comes from CJ Muse from Cantor Fitzgerald. Please go ahead with your question.
+
+CJ Muse
+Analyst, Cantor Fitzgerald
+Yeah, good afternoon. Thank you for taking the question. I guess, Irving, you started the conversation talking about results ahead of expectations, and just to follow up on the last question. For gross margins, you initially guided incremental 62%, and you reported 80% and now guiding 75%. So really trying to drill down as to what is driving that incremental strength. Is it more bits that are not under contract? Is it contracts that are unwinding and repricing? I guess, as we think beyond the near term, how should we think about the sustainability into 2027 and beyond?
+
+Irving Tan
+CEO, Western Digital
+Yeah. I think at a high level, CJ, first of all, we think the sustainability of gross margin expansion is absolutely there. There are three drivers of that. Obviously, pricing, as Kris highlighted. We have a bunch of LTAs that have contractual price increases as we move into different periods, as they reach sort of their anniversary, their price adjustments, as we deliver higher capacity platforms to get better TCO values, so we're able to share in that and drive higher pricing for those contracts that we have customers with LTAs. We have also been able to get better spot pricing with nearline customers who aren't on LTAs, given the tight supply environment. As Kris also highlighted, across the board, we are seeing better pricing environment in our client and consumer segments of the business as well. So pricing is one key element.
+
+Second, we've also been upmixing our customers to higher capacity drives. As we move them up to higher capacity drives, obviously these are more profitable for us because the ASPs per drive are much higher as well. That's a second driver of gross margin expansion that we expect to remain over a longer-term time period as well. Third, obviously, we'll be shipping more exabytes, right, through higher areal density. We are able to deliver more exabytes through higher areal density. You avoid the fixed cost of having to produce more units, and that's another driver of gross margin expansion. You put the combination of those three factors together, we feel very optimistic about ongoing gross margin expansion.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you want to follow up, CJ?
+
+CJ Muse
+Analyst, Cantor Fitzgerald
+I do, Ambrish. Sure. Thank you. You talked about a broadening breadth of customers including enterprise and MCPs. I'm curious, how is that perhaps changing the duration of LTAs, pricing, and deposits, perhaps? I would love to hear how your customer base is evolving and how that might impact your contracts. Thank you.
+
+Irving Tan
+CEO, Western Digital
+Yeah. We definitely see, I would say, a diversification of our customer base, right? It's something that we've communicated in the past where the sort of three-tier architecture, the critical role that HDDs play, both in terms of the scalability, reliability, and the economic value that it provides to customers is truly playing out, right? We definitely see that demanding happening from the AI Frontier labs, from the NeoCloud players, and also hybrid cloud solution OEM providers as well. We're factoring in their demand signal as well as we look forward, and that's translating into the expanding demand signal that we've highlighted in my response to the earlier questions. Again, we're building technology, we're making investments into head and media to be able to provide the areal density and the capacity to support all our customers in this more diversified customer environment.
+
+Operator
+Our next question comes from Asiya Merchant from Citigroup. Please go ahead with your question.
+
+Asiya Merchant
+Analyst, Citigroup
+Great. Thanks a lot. Irving, I think you talked about some of the high-bandwidth drives as well, an opportunity there to grow. Maybe if you could just double-click on how big is that opportunity today? How many of these are you shipping, if you can elaborate on that, and how big do you think that opportunity could be for you? Thank you.
+
+Irving Tan
+CEO, Western Digital
+Yeah, thanks for the question, Asiya. Look, I think the opportunity is still somewhat nascent today. Our primary focus is obviously to get capacity into the hands of the customers. But as we move into the latter part of calendar year 2027, 2028, and beyond, this becomes what we feel a big differentiator for us because things like high-bandwidth drives provide customers with an opportunity to use HDDs for different workloads that they may have to use alternative storage media for, which may be much more costly. For example, KV cache workloads in AI inferencing and in video streaming as well. So we've been actually providing samples to many of our customers in terms of this product so that they can test out different use cases. And I highlighted that's been very positively received.
+
+We are working through sort of the commercial structure of how we would price those high-bandwidth capabilities to customers. But from a technical capability standpoint, very positive. We are working through the sort of commercial construct of how we would price that going forward.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Did you have a follow-up, Asiya?
+
+Asiya Merchant
+Analyst, Citigroup
+Then
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Yeah, go ahead.
+
+Yeah, sure. If I can just ask about the physical AI as well. I think you talked about that as well in your script. Any early indications again, of how big is that opportunity today? Are you shipping towards that? Probably still in the early innings now, but how do you think about it through calendar 2027 and into calendar 2028? Thank you.
+
+Irving Tan
+CEO, Western Digital
+Yeah, I think we're definitely seeing very promising signs from the physical AI segment of the markets. For example, some of our customers in Asia who are in the autonomous vehicle space are definitely looking for increased demands, supply from us to be able to support their physical AI initiatives. A good data point of that is NVIDIA themselves have just recently highlighted the opportunity in terms of their revenue from physical AI being in the $10 billion range. If you see that happening in compute, there's obviously the demand for storage to support that compute as well. So we see it very positively. Obviously, autonomous vehicles will be one. Robotics is also becoming a key area for us.
+
+A lot of it's actually happening out in Asia, but I anticipate that will happen throughout the rest of the world over the next two to three years as well.
+
+Asiya Merchant
+Analyst, Citigroup
+Thank you.
+
+Operator
+Our next question comes from Ben Reitzes from Melius Research. Please go ahead with your question.
+
+Ben Reitzes
+Analyst, Melius Research
+Yeah. Hey, guys. Thank you. I appreciate it. I wanted to go back to one of the earlier questions on the competitive aspect of adding capacity. I think there's just some basics that would be helpful. How can somebody go from 10%- 30% capacity share? Is there enough materials to do media and heads to be able to do something like that? Maybe you can address the question from that and what would be the bottlenecks in doing so? Thanks.
+
+Irving Tan
+CEO, Western Digital
+Yeah, Ben, thanks for the question. I can't comment about somebody else doing it. I can share what we are doing to enable it. First and foremost, it all starts with technology. Our R&D teams do a great job in terms of designing head designs, media recipes to really enable high areal density products. Obviously, we combine that with our firmware capabilities and drive servo mechanics capability. It's not only about the individual components, but when you integrate all of it together, do you get the optimum areal density per drive? That's really at the engineering level, and that's one of the big differentiators that we feel versus maybe one other player in the market who is dependent on third-party suppliers, so they're not vertically integrated.
+
+Secondly, as you've touched on, a key element of it is not so much the unit capacity that you have, it's the availability to produce at scale the needed media and heads to support the higher areal density in the drives as well. Again, that's something we have been and will continue to make investments in WD, both in terms of our R&D capability but also into our manufacturing assets, specifically to enable greater areal density to our head and media assets to drive that. I think that's what we're doing, and we see the results of that. Other organizations that don't have that degree of vertical integration, I would say, will have a harder time being able to reach the same levels of growth that we are seeing.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you follow Ben?
+
+Ben Reitzes
+Analyst, Melius Research
+Yeah. Thanks a lot, Ambrish. There is obviously a lot of fear out there as you guys see and well know going into this call. I was just wondering if you could give more color around how big NeoCloud are for you now and in your forecast, and if there was a hiccup in demand there just due to timing of capital, how we would see it and how big a concern would that be for you? Thanks.
+
+Irving Tan
+CEO, Western Digital
+Yeah. I think first of all, we need to take a step back. There are really four drivers of growth within the storage space, right? One is the ongoing secular growth of the cloud. The cloud itself has been around for close to two decades, is still growing at a very healthy pace. In fact, accelerating, really driven by a lot more storage being driven by video content. A lot more demands, because a lot of content being stored is video, and obviously a lot of the cloud-based services are becoming AI-enabled, so that is driving greater storage requirements. That is one key driver of growth that will continue over the foreseeable future. The second driver of growth has been model training and development, and we see that continuing to grow as new models get created.
+
+As reinforcement learning is happening, more data needs to be stored to support reinforcement learning of existing models as well, and that is where the NeoClouds do play a part in. But we do not see that being, in any way, a major hiccup if there is a bit of a slowdown in the NeoCloud segment. The third is around inferencing and agentic AI, and that is where we see a lot of opportunity going forward, and we are starting to see a tremendous amount of growth coming from that area as customers need to store logs, checkpoints, outputs of that inferencing and sort of the agentic system decision points to support reinforcement learning as well. Then finally, physical AI that we have just touched on as well. If you add those four things together, I think the demand remains very durable.
+
+Even if there may be a slight softness in one of the four segments, the demand will be easily picked up by any one of the other three. All things added together, we see very positive outlook in terms of the demand remaining strong and remaining durable. In terms of how we look at the NeoCloud segment, obviously, we are very diligent in looking at the strategic NeoClouds that we want to engage with, those that we think have a very strong balance sheet, have underpinned by a very good end customer base as well, and so we prioritize that over other players within the market.
+
+Ben Reitzes
+Analyst, Melius Research
+Thank you.
+
+Operator
+Our next question comes from Tom O'Malley from Barclays. Please go ahead with your question.
+
+Tom O'Malley
+Analyst, Barclays
+Hey, guys. Thanks for taking my question. Appreciate it. If I look at kind of the CAGR of total HDD exabyte shipments over the last couple of quarters, it has ranged from low 20%s kind of up to the mid 30%s. I plugged that in for your guide. It looks like your year-over-year pricing that is implied for the December quarter is above that 30% year-over-year mark. You guys have historically kind of said high teens is the sustainable growth rate. You are now well above that for the past couple of quarters. Do you think you could give us an update about what the right way to look at that is in terms of sustainability of that pricing increases on a go-forward basis?
+
+Kris Sennesael
+CFO, Western Digital
+Yeah, Tom, I think the 10% or whatever number you were referencing, I think we are operating well above that, right? Just in the one quarter ago, we were already at 18% ASP increase on a ASP per terabyte basis, and so last quarter we did 28%. As I indicated before, given the strong demand environment that we operate in, given the fact that we continue to move to higher capacity drives and continue to add more value to our customers, there is definitely further room for ASP per terabyte increases going forward over the next, call it, three, four quarters. I would assume eventually that is going to slow down a little bit. But for the next three, four quarters, there is definitely further room to expand our ASP per terabyte year-over-year growth.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+You have a follow-up, Tom?
+
+Tom O'Malley
+Analyst, Barclays
+I do. Thank you. Just following up on the commentary, just the CapEx on average, 4%-6% of revs over a five year period, but modestly ahead of that in the next two years. I think the knee-jerk reaction to that is making sure that that is just investing in heads, and this is not something about expanding capacity or feeling like you need to take advantage of a market as it's nearing a potential peak. Not saying that, just outlining what you could hear. So maybe could you spend a little bit of time talking to us about why the investment is needed in heads? Is this around diversification efforts because of what we've heard in the media lately, or just a desire to get your internal efforts to a better spot? Would love just to hear your kind of thoughts on that. Thank you.
+
+Kris Sennesael
+CFO, Western Digital
+Yeah. Tom, just to be clear, in the prepared remarks, we explicitly said that
+
+The CapEx is going to head and media and factory automation and not to expanding our unit capacity.
+
+Irving Tan
+CEO, Western Digital
+Yeah. Kris summarized it really well. As we look to transition to HAMR, there are longer cycle times in terms of the steps that are involved, in terms of the head wafers that we need to produce, and also the media products that we need to produce. We are making the appropriate investments to support both the technology capabilities and at the same time to recognize that there are slightly longer cycle times because there are slightly more steps that are involved to produce the head and media components that is needed for HAMR.
+
+Kris Sennesael
+CFO, Western Digital
+Thank you, Tom.
+
+Operator
+Our next question comes from Timothy Arcuri from UBS. Please go ahead with your question.
+
+Timothy Arcuri
+Analyst, UBS
+Thanks a lot. You guys talked about an acceleration in exabyte growth. You have been under shipping your peer by about 10 points. You are mid 20%s and they are mid 30%s. Kris, when you mention that, what is the target? Should we think that maybe over a multitude of quarters, you could get to the mid 30%s as the goal to close that gap?
+
+Kris Sennesael
+CFO, Western Digital
+Yeah, we did 22% last quarter, and we've talked about that. We are in between two product transitions. The last couple of quarters, we executed really well on our up to 32 TB ePMR transition. We are now started to execute on our up to 44 TB ePMR transition. Then we have our HAMR transitions, first and second generation, coming up. That is going to drive a meaningful increase in our areal density and a meaningful increase to higher capacity drives, and that will definitely accelerate our exabyte year-over-year supply growth over the next six, seven, eight quarters.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you have a follow-up, Tim?
+
+Timothy Arcuri
+Analyst, UBS
+I do, yeah. Just to double click on that. Kris, should we think of you in six quarters shipping like 35% exabyte growth? Is that the message?
+
+Kris Sennesael
+CFO, Western Digital
+We only guide in one quarter at a time, but you're thinking about it in the right direction.
+
+Timothy Arcuri
+Analyst, UBS
+Yeah. Okay. Thanks.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Thank you, Tim.
+
+Operator
+Our next question comes from Krish Sankar from TD Cowen. Please go ahead with your question.
+
+Krish Sankar
+Analyst, TD Cowen
+Yeah. Thanks for taking my question. I have two of them too, and Kris, thanks for the color on the pricing. I am just curious, as your first set of HAMR customers ramp in the first half, would there be any impact on the ASP growth mainly because you are helping your early customers ramp HAMR, or it should not have any impact?
+
+Irving Tan
+CEO, Western Digital
+No, we're not discounting our HAMR products in any way versus our ePMR products. We price them on a dollar per terabyte basis, and we have LTAs that I mentioned that have appropriate price reviews periodically. Whether we ship a HAMR bit or an ePMR bit, the price is the price.
+
+Krish Sankar
+Analyst, TD Cowen
+Got it. As a quick follow-up, I totally understand your argument about adding head capacity, but not units. I'm just trying to play the devil's advocate. By adding head capacity, you are increasing the capacity per unit. I'm just wondering, isn't that lead to the fact that you are actually adding capacity, even though if it's head not unit, leading to more capacity increase versus the minutiae between a unit or a head?
+
+Irving Tan
+CEO, Western Digital
+Yeah, I think there are two factors there. First of all, we say we are investing into head capacity, and part of it is, as I mentioned, for example, a HAMR head does require more cycles to produce, so there's a bit of throughput loss, so we need to offset, so we do need to put in more capacity. That does not translate into more heads and therefore more units. We have also indicated at our Innovation Day back in February of this year, we have a roadmap to deliver drives with up to 14 platters as well, and therefore you will need more heads within the existing number of drives that we have as well. We're making the investments to support that roadmap going forward as well.
+
+Kris Sennesael
+CFO, Western Digital
+Krish, last quarter, we shared with you the platter count growth on very minimal unit growth, right? That's one of the reasons we have to invest on the head side.
+
+Krish Sankar
+Analyst, TD Cowen
+Thank you very much.
+
+Irving Tan
+CEO, Western Digital
+That applies to media as well. Same thing.
+
+Krish Sankar
+Analyst, TD Cowen
+Great.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+The next caller, please.
+
+Operator
+Our next question comes from Jim Schneider from Goldman Sachs. Please go ahead with your question.
+
+Jim Schneider
+Analyst, Goldman Sachs
+Good afternoon. Thanks for taking my question. I was wondering if you could maybe just clarify with respect to your head strategy currently, whether you use external vendors for any of your products or for surge capacity, and to what extent the head investments, beyond just the HAMR items you mentioned before, are meant to sort of eliminate the need for any potential vendors in the future and sort of take that external reliance off the table completely. Thank you.
+
+Irving Tan
+CEO, Western Digital
+Yeah, thanks for the question. We do use some external head capacity that we always have done. We do that for media as well. That is part of our sort of innovation approach, where we build and buy. We are able to benchmark our performance of our components with our third-party suppliers as well. It is a great way for us to continue to drive innovation both internally and with our partners as well. Our focus on our investment is to continue to ensure that we have the latest technology internally to support our products going forward. What we do buy from third parties are typically used in our lower capacity drives. All the high cap leading-edge platforms that we introduce are all on our own internal heads.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Do you have a follow-up, Jim?
+
+Jim Schneider
+Analyst, Goldman Sachs
+Thank you. Yeah, just as a follow-up. In a hypothetical situation where one of your competitors were to meaningfully expand unit capacity, what hypothetically would be your response in that case?
+
+Irving Tan
+CEO, Western Digital
+Well, again, it boils down to not just unit capacity, but at what capacity point is unit shipping at as well. Again, our focus is on delivering that capacity that customers need through higher capacity drives, through areal density. So our response is going to be the same as we've communicated over the last year, to continue to focus on the areal density, to translate that into the highest capacity drives that we can bring into the market. That's the best TCO for our customers and drives the best economics for us as well.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Great. Thank you. Next caller, please.
+
+Operator
+Our next question comes from Karl Ackerman from BNP Paribas. Please go ahead with your question.
+
+Karl Ackerman
+Analyst, BNP Paribas
+Yeah, thanks for squeezing me in. Irving and Kris, you indicated that HAMR will ramp over the next couple of quarters, but do you expect non-HAMR nearline drive capacity to also expand while HAMR ramps as well?
+
+Irving Tan
+CEO, Western Digital
+We expect, obviously, we are looking to ramp HAMR in the first half of calendar 2027. In parallel, we will also continue to ramp and supply our latest ePMR platform. As we highlighted, it is making a very successful transition, in fact, the fastest transition of any ePMR platform that we have seen. In this quarter, Q2, we expect 30% of all the nearline bits to be on that up to 40 TB platform. By Q3 of fiscal 2027, we expect 50% of all the nearline bits that we ship will be on that 40 TB platform as well. Then obviously, we will continue to scale. I think we have two very strong horses in the mix to deliver high cap drives to support the demand that our customers need.
+
+Ambrish Srivastava
+VP of Investor Relations, Western Digital
+Great. Thank you, Karl. We have time for one more caller. Operator, please.
+
+Operator
+Our next question comes from Mark Newman from Bernstein. Please go ahead with your question.
+
+Mark Newman
+Analyst, Bernstein
+Hi, thanks for squeezing me in. Congrats on numbers today. I wonder if I could just ask a bit more on the pricing. Pricing continues to be extremely strong and this last quarter seems to be further accelerating. You talked about you have demand visibility all the way till 2030, 2031. I wonder if you could update us on how far out you have for price visibility, such as in your purchase orders already signed or long-term agreements. How far out should we expect this price to remain continuing at this cadence? Or potentially, could we expect it to further accelerate from here? Any comments on price visibility from here would be great. Thanks.
+
+Kris Sennesael
+CFO, Western Digital
+Yeah. The most important thing with LTAs and our customer engagements is to create that long-term visibility and making sure we are aligned from a technology and product roadmap. We are aligned on those product transitions that are being planned ahead for the next couple quarters and years, and making sure that we put in place the necessary exabyte capacity to support their demand. That's the most important thing that we're trying to achieve here. In terms of pricing, in those LTAs, we do have some pricing components. Keep in mind that there is base volume, there is upside volume, so there is definitely some flexibility. Keep in mind, of course, that not all our exabytes are covered by the LTAs. The further you go out, the less of it is covered under LTAs, and for sure, under pricing component of the LTAs.
+
+We think in the current environment, that's the best way to approach it. Again, for us, it's all about execution on our technology product roadmap, get to the higher capacity drives, deliver more value to our customers, and that's a very favorable setup for pricing and further increases in our ASP per terabyte. Thank you, Mark.
+
+Mark Newman
+Analyst, Bernstein
+Great. Can I ask one quick follow-up on the exabyte growth, 22% year-on-year. I believe you guided long-term exabyte growth for nearline at 25%. I just wanted to clarify if that is still intact, which also your competitor had also outlined. Is that 25% a good guidance long-term for nearline exabyte growth?
+
+Kris Sennesael
+CFO, Western Digital
+Yeah. We actually said greater than 25%, right? Again, we've indicated that currently it's slightly below the 25% because we are in between those two product transitions. But as the product transitions are getting more traction, we will exceed that 25%.
+
+Mark Newman
+Analyst, Bernstein
+Great. Thank you very much.
+
+Operator
+At this time, we will conclude today's question and answer session. I would like to turn the floor back over to Irving Tan for closing remarks.
+
+Irving Tan
+CEO, Western Digital
+Thank you, operator. I would like to leave all of you with a few thoughts. The first phase of AI investment focused on building the infrastructure to train models. Even as that continues, the next phases are about deploying AI to work at scale, from inference to agents to physical AI. As that happens, data will continue to compound, driving customers to plan further ahead, adopt higher capacity products, and align their infrastructure roadmaps more closely with our technology roadmap. For WD, this creates an opportunity that extends well beyond the initial AI infrastructure build-out. As AI scales, data creation and associated storage requirements will accelerate and compound. As always, my thanks to our customers, partners, and the entire WD team, for all of you, for all your interest and support of WD. Thank you.
+
+Operator
+The conference has now concluded. We do thank you for attending today's presentation. You may now disconnect your lines.
